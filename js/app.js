@@ -4,7 +4,7 @@
 
 
   if (navigator.serviceWorker) {
-    navigator.serviceWorker.register('/sw.js');
+    navigator.serviceWorker.register('08-pouchdb-todo/sw.js');
   }
 
 
